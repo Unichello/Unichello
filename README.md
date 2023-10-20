@@ -9,6 +9,7 @@ I'm Pedro Barichello, Backend developer from **Natal, Brasil**.
 - C++
 - C
 - mySQL
+- NoSQL
   
 🌱 I’m currently learning :
 ---
