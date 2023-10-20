@@ -8,12 +8,12 @@ I'm Pedro Barichello, Backend developer from **Natal, Brasil**.
 - Python 
 - C++
 - C
+- mySQL
   
 🌱 I’m currently learning :
 ---
 - Java
 - Spring
-- mySQL
 
 Contact :
 ---
