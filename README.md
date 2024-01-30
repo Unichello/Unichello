@@ -7,7 +7,7 @@ I'm Pedro Barichello, Backend developer from **Natal, Brasil**.
 ---
 - Python 
 - C++
-- mySQL
+- SQL
 - NoSQL
   
 🌱 I’m currently learning :
